@@ -18,7 +18,14 @@ body{
   background-size: cover;
   width: 22px;
   height: 22px;
-  background-color: yellow;
+  background-color: #ffff00;
   border-radius: 11px;
-  border: solid 3px darkslategray;
+  border: solid 3px #2f4f4f;
+}
+
+.marker-delivery{
+  background-color: #ff0000;
+  width: 22px;
+  height: 22px;
+  border-radius: 11px;
 }
